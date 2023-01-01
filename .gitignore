@@ -1,0 +1,5 @@
+.vscode/
+build/
+tweetcli
+
+src/utils/config.hpp

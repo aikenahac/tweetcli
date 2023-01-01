@@ -1,0 +1,10 @@
+#include <string>
+
+class Config {
+  public:
+    std::string CONSUMER_KEY = "";
+    std::string CONSUMER_KEY_SECRET = "";
+
+    std::string TOKEN = "";
+    std::string TOKEN_SECRET = "";
+};
